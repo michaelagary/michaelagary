@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <ul>
   <li>👋🏾 Hi, I’m @michaelanicole</li>
   <li>👀 I’m interested in Computer Science and Africana Studies</li>
-  <li>📚 I’m currently learning systems programming in C</li>
+  <li>👩🏾‍💻 I’m working as a Software Engineering Intern at Zillow Group</li>
   <li>📫 How to reach me: michaelanicole03@gmail.com</li>
   <li>🤪 Fun fact: In my free time I love to bake!</li>
 </ul> 
